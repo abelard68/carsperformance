@@ -1,0 +1,12 @@
+name: CarsPerformance
+title: CarsPerformance
+username:
+account: abelard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 518784
+bundleId: 1647389
+url: https://abelard.shinyapps.io/CarsPerformance/
+when: 1539774203.40066
+asMultiple: FALSE
+asStatic: FALSE
